@@ -14,18 +14,20 @@
 ---
 
 ## 项目结构
-src
- ├─ main.js
- ├─ router/index.js # 路由守卫 & 防死循环
- ├─ stores/auth.js # Pinia 核心
- ├─ api/user.js # 登录接口
- ├─ utils/request.js # Axios 实例
- ├─ views
- │   │
- │   ├─ Login.vue
- │   └─ Home.vue
- └─ App.vue
-
+```code
+\--src
+  ├─ main.js
+  ├─ router/index.js # 路由守卫 & 防死循环
+  ├─ stores/auth.js # Pinia 核心
+  ├─ api/user.js # 登录接口
+  ├─ utils/request.js # Axios 实例
+  ├─ views
+  │   │
+  │   ├─ Login.vue
+  │   └─ Home.vue
+  ├─ main.js
+  └─ App.vue
+ └─ vite.config.js
 
 ## 运行流程
 ```mermaid
