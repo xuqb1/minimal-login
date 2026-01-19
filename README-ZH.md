@@ -71,4 +71,4 @@ npm run dev
 ```
 
 ##许可证
-MIT © 2026 xuqb
+MIT © 2026 xuqb1
