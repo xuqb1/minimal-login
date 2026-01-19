@@ -14,25 +14,18 @@ No UI framework, no boilerplate fat—clone, install and run.
 ---
 
 ## Structure
+```code
 src
-
 ├─ main.js
-
 ├─ router/index.js       # Router Guardd + infinite-redirect fix
-
 ├─ stores/auth.js  # Pinia store
-
 ├─ api/user.js     # login api
-
 ├─ utils/request.js # axios instance
-
 ├─ views
-
 │  ├─ Login.vue
-
 │  └─ Home.vue
-
 └─ App.vue
+```
 
 ## Flow
 ```mermaid
