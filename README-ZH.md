@@ -28,6 +28,7 @@
   ├─ main.js
   └─ App.vue
  └─ vite.config.js
+```
 
 ## 运行流程
 ```mermaid
