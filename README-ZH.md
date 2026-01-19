@@ -48,6 +48,7 @@ flowchart TD
     J --> K[点击退出]
     K --> L[清除 token 和会话<br>设置 _logout_by_user=1]
     L --> E
+```
 
 ##快速开始
 ```bash
